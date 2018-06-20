@@ -1,4 +1,6 @@
-package io.tulaa.triplets;/**
+package io.tulaa.triplets;
+
+/**
  * Created by admin on 6/21/18.
  */
 
