@@ -17,7 +17,7 @@ public class Pythagorean {
     {
         int ar[] = {3, 1, 4, 6, 5};
         int ar_size = ar.length;
-        if(isTriplet(ar,ar_size)==true)
+        if(Triplet(ar,ar_size)==true)
             System.out.println("TRUE");
         else
             System.out.println("FALSE");
@@ -25,7 +25,7 @@ public class Pythagorean {
 
 
     // Returns true if there is Pythagorean triplet
-    static boolean isTriplet(int ar[], int n)
+    static boolean Triplet(int ar[], int n)
     {
         for (int i=0; i<n; i++)
         {
