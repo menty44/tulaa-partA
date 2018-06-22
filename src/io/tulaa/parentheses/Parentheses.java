@@ -15,8 +15,8 @@ public class Parentheses {
 
     public static void main (String[] args)
     {
-        int n = 3;
-        char[] str = new char[6];
+        int n = 4;
+        char[] str = new char[8];
         printParenthesis(str, n);
     }
 
